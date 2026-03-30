@@ -1,6 +1,6 @@
 # 执行 oh-my-posh 应用（更新）
 function ApplyPoshTheme {
-	oh-my-posh init pwsh --config "https://raw.githubusercontent.com/dosicker/terminal-beautify/main/config/agxm.omp.json" | Invoke-Expression
+	oh-my-posh init pwsh --config "https://cdn.jsdelivr.net/gh/adiovo/terminal-beautify/config/agxm.omp.json" | Invoke-Expression
 }
 
 function Switch-PoshTheme {
