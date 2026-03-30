@@ -1,5 +1,15 @@
 ## 个人使用的一个终端美化器配置，基于[M365Princess](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json)
 
+### CDN URL
+```yaml
+https://cdn.jsdelivr.net/gh/adiovo/terminal-beautify/config/agxm.omp.json
+```
+
+### RAW URL
+```yaml
+https://raw.githubusercontent.com/adiovo/terminal-beautify/main/config/agxm.omp.json
+```
+
 #### Windows 10/11食用配方：[Auto Dark Mode](https://apps.microsoft.com/detail/xp8jk4hzbvf435) + [terminal](https://github.com/microsoft/terminal) + [Oh My Posh](https://ohmyposh.dev/)（由于精~~菜~~力~~就~~有~~多~~限~~学~~，目前的方式仅支持在初始化时读取当前Windows系统内的外观标识，暂时未支持实时监控到主题切换深色模式时也跟随更换ohmyposh的配色方案）
 ```
 关于Windows中实现自动跟随系统的日/夜模式切换不同的Oh My Posh主题/配色等方案：
