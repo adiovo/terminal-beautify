@@ -38,15 +38,15 @@ https://raw.githubusercontent.com/adiovo/terminal-beautify/main/config/agxm.omp.
 ## 上效果图：
 
 ### <center>macOS Light</center>
-![macOS Light](assets/macOS%20Light.png)
+![macOS Light](assets/macOS-Light.png)
 
 ### <center>macOS Dark</center>
-![macOS Dark](assets/macOS%20Dark.png)
+![macOS Dark](assets/macOS-Dark.png)
 
 ### <center>Windows Dark</center>
-![Windows Dark](assets/Windows%20Dark.png)
+![Windows Dark](assets/Windows-Dark.png)
 
 ### <center>Windows Light</center>
-![Windows Light](assets/Windows%20Light.png)
+![Windows Light](assets/Windows-Light.png)
 
 ## 开冲！！！
